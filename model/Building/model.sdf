@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='buildtemp'>
+  <model name='MyBuilding'>
     <pose frame=''>-1.01485 1.76487 0 0 -0 0</pose>
     <link name='Wall_1'>
       <pose frame=''>-0.000147 2.66513 0 0 -0 -0.001691</pose>
