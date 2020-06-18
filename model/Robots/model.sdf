@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='first_vehcile'>
+  <model name='Mubashir_vehcile'>
     <link name='link_0'>
       <inertial>
         <mass>0.340951</mass>
